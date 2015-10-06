@@ -1,0 +1,18 @@
+{
+  "uuid": "d7308b1f-3bb8-4a59-8af0-e2b6be6d0807",
+  "shortName": "Simple Voice Demo",
+  "longName": "Simple Voice Demo",
+  "companyName": "Pebble",
+  "versionLabel": "1.0",
+  "sdkVersion": "3",
+  "targetPlatforms": ["basalt", "chalk"],
+  "watchapp": {
+    "watchface": false
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": []
+  }
+}
